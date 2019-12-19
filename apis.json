@@ -1,0 +1,78 @@
+{
+    "name": "Chase Paymentech",
+    "description": "Chase online; credit cards, mortgages, commercial banking, auto loans, investing & retirement planning, checking and business banking.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1392-chase-paymentech.jpg",
+    "tags": [
+        "api provider",
+        "financial services",
+        "have api",
+        "payments"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/chase-paymentech\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Chase Paymentech",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1392-chase-paymentech.jpg",
+            "humanURL": "http:\/\/www.chasepaymentech.com\/payment_gateway.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/chase-paymentech-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.chasepaymentech.com\/payment_gateway.html"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/chase-paymentech"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/chase-small-business"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.chasepaymentech.com\/payment_processing_services_and_products.html"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@chase.com"
+        },
+        {
+            "type": "Email",
+            "url": "smcss@chaseonline.chase.com"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.chasepaymentech.com\/partnership.html?WT.mc_id=supernav_partnership"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/www.chasepaymentech.com\/apply\/index.html?WT.mc_id=supernav_apply&referralParty=SuperNavApply"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/www.chasepaymentech.com\/merchantcenter\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ChasePaymentech"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Chase"
+        }
+    ]
+}
